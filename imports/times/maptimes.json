@@ -1,0 +1,5 @@
+[
+  {"from": "POS" },
+  {"from": "TEAM" },
+  {"from": "WIN%", "to": "WINP" }
+]
