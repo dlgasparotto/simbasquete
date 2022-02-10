@@ -1,0 +1,9 @@
+[
+  {"from": "PLAYER" },
+  {"from": "TEAM" },
+  {"from": "NUMBER" },
+  {"from": "POSITION" },
+  {"from": "HEIGHT" },
+  {"from": "WEIGHT" },
+  {"from": "COUNTRY" }
+]
